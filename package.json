@@ -1,0 +1,13 @@
+{
+  "name": "mafaah2",
+  "version": "1.0.0",
+  "private": false,
+  "description": "Minimal benign starter scaffold; local-only status demo.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
